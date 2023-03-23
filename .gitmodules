@@ -1,0 +1,36 @@
+[submodule "WAGO.OPC_UA"]
+	path = WAGO.OPC_UA
+	url = git@github.com:kjwenger/WAGO.OPC_UA.git
+[submodule "WAGO.750-0881"]
+	path = WAGO.750-0881
+	url = git@github.com:kjwenger/WAGO.750-0881.git
+[submodule "WAGO.KNX"]
+	path = WAGO.KNX
+	url = git@github.com:kjwenger/WAGO.KNX.git
+[submodule "WAGO.AppScheduler"]
+	path = WAGO.AppScheduler
+	url = git@github.com:kjwenger/WAGO.AppScheduler.git
+[submodule "WAGO.DALI"]
+	path = WAGO.DALI
+	url = git@github.com:kjwenger/WAGO.DALI.git
+[submodule "WAGO.Modbus"]
+	path = WAGO.Modbus
+	url = git@github.com:kjwenger/WAGO.Modbus.git
+[submodule "WAGO.ControlSunshadeScene"]
+	path = WAGO.ControlSunshadeScene
+	url = git@github.com:kjwenger/WAGO.ControlSunshadeScene.git
+[submodule "WAGO.BasicWeatherProtection"]
+	path = WAGO.BasicWeatherProtection
+	url = git@github.com:kjwenger/WAGO.BasicWeatherProtection.git
+[submodule "WAGO.CloudManager"]
+	path = WAGO.CloudManager
+	url = git@github.com:kjwenger/WAGO.CloudManager.git
+[submodule "WAGO.FrostAlarm"]
+	path = WAGO.FrostAlarm
+	url = git@github.com:kjwenger/WAGO.FrostAlarm.git
+[submodule "WAGO.WindAlarm"]
+	path = WAGO.WindAlarm
+	url = git@github.com:kjwenger/WAGO.WindAlarm.git
+[submodule "WAGO.SunshadeActuator"]
+	path = WAGO.SunshadeActuator
+	url = git@github.com:kjwenger/WAGO.SunshadeActuator.git
