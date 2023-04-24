@@ -37,3 +37,6 @@
 [submodule "WAGO.750-8202"]
 	path = WAGO.750-8202
 	url = git@github.com:kjwenger/WAGO.750-8202.git
+[submodule "WAGO.KBus"]
+	path = WAGO.KBus
+	url = git@github.com:kjwenger/WAGO.KBus.git
