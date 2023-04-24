@@ -34,3 +34,6 @@
 [submodule "WAGO.SunshadeActuator"]
 	path = WAGO.SunshadeActuator
 	url = git@github.com:kjwenger/WAGO.SunshadeActuator.git
+[submodule "WAGO.750-8202"]
+	path = WAGO.750-8202
+	url = git@github.com:kjwenger/WAGO.750-8202.git
